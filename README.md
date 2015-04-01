@@ -6,9 +6,12 @@ I envision an interesting opportunity to market Bluemix and watson integration b
 http://www.reddit.com/r/IAmA/comments/30yjr6/ama_request_ibms_watson/ 
 
 The structure looks like this:
+
 1. A web ui to submit questions and receive answers
+
 2. A watson ecosystem to feed past famous AMA's, IBm history and the future of AI
-3. Yes, It is that simple.
+
+3. Confirmation that it is that simple.
 
 There is an existing framework we can use to deploy this solution.
 http://www.ibm.com/developerworks/cloud/library/cl-watson-films-bluemix-app/ 
