@@ -23,3 +23,5 @@ Here is there first response.
 Thank you,
 The IBM Watson Team"
 
+This is likely dead after our buddy Victoria moved on from Reddit. Watson team has also not been very forthcoming with a corpus.
+
